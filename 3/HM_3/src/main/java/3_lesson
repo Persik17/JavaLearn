@@ -1,0 +1,31 @@
+--exceptions, input-output streams etc.
+9: 349 - 380
+    1.Throwable
+    2.try - пробует произвести код тела, catch - ловит исключения допущенные в теле
+    3.нет try
+    4.java сама выведет исключение и завершит программу
+    5.Можно не выводит исключения A, т.к. идет наследование
+    6.да, может
+    7.Да, выполняется при выполнении блока try
+    8.Все, кроме Error and RuntimeExc
+    9.Не наследует Throwable
+    10.Main, def try/catch
+    11.В вм, прогге или throw
+    12.Error and exception
+    13.Проверка на несколько исключений
+    14.Нет
+10: 381 - 428
+    1.Одни необхожимы для чтения и вывода двоичных данныъ, другие для символьных
+    2.Байтовые потоки были реализованны первее
+    3.Main, FileInputStream
+    4.FileReader
+    5.RandomAccessFile
+    6.синтаксический разбор в Integer or Double
+    7.Main - SpaceToDash
+    8.Main - SpaceToDash
+    9.InputStream
+    10.-1
+    11.DataOutputStream, DataInputStream
+    12.Ввода-вывода
+    13.Автоматического управления ресурсами
+    14.Да
